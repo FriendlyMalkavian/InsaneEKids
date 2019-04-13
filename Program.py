@@ -70,6 +70,10 @@ def draw_lava(count):
 class Wall:
     def __init__(self):
         mc.setBlocks(1, 1, 1, 5, 4, 6, block.CACTUS)
+        
+    def Randomize(count)
+    for c in range walls
+    
    
 
 
